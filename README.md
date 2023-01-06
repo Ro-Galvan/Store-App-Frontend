@@ -1,6 +1,8 @@
 # Store-App-Frontend
 
 Provides an interactive user interface where users can purchase the products by making calls to the game, console and t-shirt API.
+![game-store](https://user-images.githubusercontent.com/97912154/211057323-549b53b0-bf80-402d-962c-fc64b50231d5.jpg)
+![game-store2](https://user-images.githubusercontent.com/97912154/211057821-d250f47a-d235-4e90-a7b4-948fdd9720fa.jpg)
 
 ## Using the back-end
 You can access the back-end source of this code from [here](https://github.com/Jeff-T-Schmidt/smu-student-project-1)
