@@ -5,7 +5,7 @@ Provides an interactive user interface where users can purchase the products by 
 ![game-store2](https://user-images.githubusercontent.com/97912154/211057821-d250f47a-d235-4e90-a7b4-948fdd9720fa.jpg)
 
 ## Using the back-end
-You can access the back-end source of this code from [here](https://github.com/Jeff-T-Schmidt/smu-student-project-1)
+You can access the back-end source of this code from [here](https://github.com/Ro-Galvan/smu-student-project-1)
 
 ## Getting Started with Create React App
 
